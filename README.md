@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 315 | [Count of Smaller Numbers After Self][p315]                         |               | Hard        |
 | 314 | [Binary Tree Vertical Order Traversal][p314]                        |   :lock:      | Medium      |
 | 313 | [Super Ugly Number][p313]                                           |               | Medium      |
 | 312 | [Burst Balloons][p312]                                              |               | Medium      |
@@ -304,6 +305,7 @@
 
 
 
+[p315]:https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [p314]:https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 [p313]:https://leetcode.com/problems/super-ugly-number/
 [p312]:https://leetcode.com/problems/burst-balloons/
