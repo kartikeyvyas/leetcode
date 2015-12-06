@@ -22,14 +22,14 @@ def num_distinct(s, t)
   )
 end
 
-private def _num_distinct_(s, sl, su, t, tl, tu, nums)
+private def _num_distinct_(s, sl, su, t, tl, tu, memo)
   return 1 if tl > tu
   return 0 if sl > su
-  return nums[sl][tl] if nums[sl][tl]
+  return memo[sl][tl] if memo[sl][tl]
 
-  sum  = _num_distinct_(s, sl + 1, su, t, tl, tu, nums)
-  sum += _num_distinct_(s, sl + 1, su, t, tl + 1, tu, nums) if s[sl] == t[tl]
+  sum  = _num_distinct_(s, sl + 1, su, t, tl, tu, memo)
+  sum += _num_distinct_(s, sl + 1, su, t, tl + 1, tu, memo) if s[sl] == t[tl]
 
-  nums[sl][tl] = sum
+  memo[sl][tl] = sum
   return sum
 end
