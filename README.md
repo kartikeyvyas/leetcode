@@ -6,7 +6,7 @@
 | 315 | [Count of Smaller Numbers After Self][p315]                         |               | Hard        |
 | 314 | [Binary Tree Vertical Order Traversal][p314]                        |   :lock:      | Medium      |
 | 313 | [Super Ugly Number][p313]                                           |               | Medium      |
-| 312 | [Burst Balloons][p312]                                              |               | Medium      |
+| 312 | [Burst Balloons][p312]                                              | [Ruby][s312]  | Medium      |
 | 311 | [Sparse Matrix Multiplication ][p311]                               |   :lock:      | Medium      |
 | 310 | [Minimum Height Trees][p310]                                        |               | Medium      |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown][p309]               |               | Medium      |
@@ -604,6 +604,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s312]:./algorithms/burst_balloons.rb
 [s307]:./algorithms/range_sum_query_mutable.rb
 [s306]:./algorithms/additive_number.rb
 [s304]:./algorithms/range_sum_query_2d_immutable.rb
