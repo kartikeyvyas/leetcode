@@ -3,7 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
-| 316 | [Remove Duplicate Letters][p316]                                    |               | Medium      |
+| 316 | [Remove Duplicate Letters][p316]                                    | [Ruby][s316]  | Medium      |
 | 315 | [Count of Smaller Numbers After Self][p315]                         |               | Hard        |
 | 314 | [Binary Tree Vertical Order Traversal][p314]                        |   :lock:      | Medium      |
 | 313 | [Super Ugly Number][p313]                                           |               | Medium      |
@@ -606,6 +606,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s316]:./algorithms/remove_duplicate_letters.rb
 [s312]:./algorithms/burst_balloons.rb
 [s307]:./algorithms/range_sum_query_mutable.rb
 [s306]:./algorithms/additive_number.rb
