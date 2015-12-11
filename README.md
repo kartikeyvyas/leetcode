@@ -9,7 +9,7 @@
 | 313 | [Super Ugly Number][p313]                                           |               | Medium      |
 | 312 | [Burst Balloons][p312]                                              | [Ruby][s312]  | Medium      |
 | 311 | [Sparse Matrix Multiplication ][p311]                               |   :lock:      | Medium      |
-| 310 | [Minimum Height Trees][p310]                                        |               | Medium      |
+| 310 | [Minimum Height Trees][p310]                                        | [Ruby][s310]  | Medium      |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown][p309]               | [Ruby][s309]  | Medium      |
 | 308 | [Range Sum Query 2D - Mutable][p308]                                |   :lock:      | Hard        |
 | 307 | [Range Sum Query - Mutable][p307]                                   | [Ruby][s307]  | Medium      |
@@ -608,6 +608,7 @@
 
 [s316]:./algorithms/remove_duplicate_letters.rb
 [s312]:./algorithms/burst_balloons.rb
+[s310]:./algorithms/minimum_height_trees.rb
 [s309]:./algorithms/best_time_to_buy_and_sell_stock_with_cooldown.rb
 [s307]:./algorithms/range_sum_query_mutable.rb
 [s306]:./algorithms/additive_number.rb
