@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 317 | [Shortest Distance from All Buildings][p317]                        |   :lock:      | Hard        |
 | 316 | [Remove Duplicate Letters][p316]                                    | [Ruby][s316]  | Medium      |
 | 315 | [Count of Smaller Numbers After Self][p315]                         | [Ruby][s315]  | Hard        |
 | 314 | [Binary Tree Vertical Order Traversal][p314]                        |   :lock:      | Medium      |
@@ -306,6 +307,7 @@
 
 
 
+[p317]:https://leetcode.com/problems/shortest-distance-from-all-buildings/
 [p316]:https://leetcode.com/problems/remove-duplicate-letters/
 [p315]:https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [p314]:https://leetcode.com/problems/binary-tree-vertical-order-traversal/
