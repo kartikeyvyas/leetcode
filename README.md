@@ -3,7 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
-| 318 | [Maximum Product of Word Lengths][p318]                             |               | Medium      |
+| 318 | [Maximum Product of Word Lengths][p318]                             | [Ruby][s318]  | Medium      |
 | 317 | [Shortest Distance from All Buildings][p317]                        |   :lock:      | Hard        |
 | 316 | [Remove Duplicate Letters][p316]                                    | [Ruby][s316]  | Medium      |
 | 315 | [Count of Smaller Numbers After Self][p315]                         | [Ruby][s315]  | Hard        |
@@ -610,6 +610,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s318]:./algorithms/maximum_product_of_word_lengths.rb
 [s316]:./algorithms/remove_duplicate_letters.rb
 [s315]:./algorithms/count_of_smaller_numbers_after_self.rb
 [s313]:./algorithms/super_ugly_number.rb
