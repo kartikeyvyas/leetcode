@@ -26,7 +26,7 @@ def maximum_gap(nums)
   maxarray = Array.new(nums.size, -Float::INFINITY)
 
   nums.each do |num|
-    aidx = (num - min).fdiv(interval).floor
+    aidx = (num - min).fdiv(interval).truncate
     minarray[aidx] = num if minarray[aidx] > num
     maxarray[aidx] = num if maxarray[aidx] < num
   end
