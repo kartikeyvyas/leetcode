@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 319 | [Bulb Switcher][p319]                                               | [Ruby][s319]  | Medium      |
 | 318 | [Maximum Product of Word Lengths][p318]                             | [Ruby][s318]  | Medium      |
 | 317 | [Shortest Distance from All Buildings][p317]                        |   :lock:      | Hard        |
 | 316 | [Remove Duplicate Letters][p316]                                    | [Ruby][s316]  | Medium      |
@@ -308,6 +309,7 @@
 
 
 
+[p319]:https://leetcode.com/problems/bulb-switcher/
 [p318]:https://leetcode.com/problems/maximum-product-of-word-lengths/
 [p317]:https://leetcode.com/problems/shortest-distance-from-all-buildings/
 [p316]:https://leetcode.com/problems/remove-duplicate-letters/
@@ -610,6 +612,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s319]:./algorithms/bulb_switcher.rb
 [s318]:./algorithms/maximum_product_of_word_lengths.rb
 [s316]:./algorithms/remove_duplicate_letters.rb
 [s315]:./algorithms/count_of_smaller_numbers_after_self.rb
