@@ -3,6 +3,8 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 322 | [Coin Change][p322]                                                 |               | Medium      |
+| 321 | [Create Maximum Number][p321]                                       |               | Hard        |
 | 320 | [Generalized Abbreviation][p320]                                    |   :lock:      | Medium      |
 | 319 | [Bulb Switcher][p319]                                               | [Ruby][s319]  | Medium      |
 | 318 | [Maximum Product of Word Lengths][p318]                             | [Ruby][s318]  | Medium      |
@@ -310,6 +312,8 @@
 
 
 
+[p322]:https://leetcode.com/problems/coin-change/
+[p321]:https://leetcode.com/problems/create-maximum-number/
 [p320]:https://leetcode.com/problems/generalized-abbreviation/
 [p319]:https://leetcode.com/problems/bulb-switcher/
 [p318]:https://leetcode.com/problems/maximum-product-of-word-lengths/
