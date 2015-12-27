@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 320 | [Generalized Abbreviation][p320]                                    |   :lock:      | Medium      |
 | 319 | [Bulb Switcher][p319]                                               | [Ruby][s319]  | Medium      |
 | 318 | [Maximum Product of Word Lengths][p318]                             | [Ruby][s318]  | Medium      |
 | 317 | [Shortest Distance from All Buildings][p317]                        |   :lock:      | Hard        |
@@ -309,6 +310,7 @@
 
 
 
+[p320]:https://leetcode.com/problems/generalized-abbreviation/
 [p319]:https://leetcode.com/problems/bulb-switcher/
 [p318]:https://leetcode.com/problems/maximum-product-of-word-lengths/
 [p317]:https://leetcode.com/problems/shortest-distance-from-all-buildings/
