@@ -3,7 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
-| 322 | [Coin Change][p322]                                                 |               | Medium      |
+| 322 | [Coin Change][p322]                                                 | [Ruby][s322]  | Medium      |
 | 321 | [Create Maximum Number][p321]                                       |               | Hard        |
 | 320 | [Generalized Abbreviation][p320]                                    |   :lock:      | Medium      |
 | 319 | [Bulb Switcher][p319]                                               | [Ruby][s319]  | Medium      |
@@ -618,6 +618,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s322]:./algorithms/coin_change.rb
 [s319]:./algorithms/bulb_switcher.rb
 [s318]:./algorithms/maximum_product_of_word_lengths.rb
 [s316]:./algorithms/remove_duplicate_letters.rb
