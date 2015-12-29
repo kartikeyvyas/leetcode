@@ -5,7 +5,7 @@
 |-----|---------------------------------------------------------------------|---------------|-------------|
 | 323 | [Number of Connected Components in an Undirected Graph][p323]       |   :lock:      | Easy        |
 | 322 | [Coin Change][p322]                                                 | [Ruby][s322]  | Medium      |
-| 321 | [Create Maximum Number][p321]                                       |               | Hard        |
+| 321 | [Create Maximum Number][p321]                                       | [Ruby][s321]  | Hard        |
 | 320 | [Generalized Abbreviation][p320]                                    |   :lock:      | Medium      |
 | 319 | [Bulb Switcher][p319]                                               | [Ruby][s319]  | Medium      |
 | 318 | [Maximum Product of Word Lengths][p318]                             | [Ruby][s318]  | Medium      |
@@ -621,6 +621,7 @@
 [p1]:https://leetcode.com/problems/two-sum/
 
 [s322]:./algorithms/coin_change.rb
+[s321]:./algorithms/create_maximum_number.rb
 [s319]:./algorithms/bulb_switcher.rb
 [s318]:./algorithms/maximum_product_of_word_lengths.rb
 [s316]:./algorithms/remove_duplicate_letters.rb
