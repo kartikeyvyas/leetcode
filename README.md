@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 324 | [Wiggle Sort II][p324]                                              |               | Medium      |
 | 323 | [Number of Connected Components in an Undirected Graph][p323]       |   :lock:      | Easy        |
 | 322 | [Coin Change][p322]                                                 | [Ruby][s322]  | Medium      |
 | 321 | [Create Maximum Number][p321]                                       | [Ruby][s321]  | Hard        |
@@ -313,6 +314,7 @@
 
 
 
+[p324]:https://leetcode.com/problems/wiggle-sort-ii/
 [p323]:https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 [p322]:https://leetcode.com/problems/coin-change/
 [p321]:https://leetcode.com/problems/create-maximum-number/
