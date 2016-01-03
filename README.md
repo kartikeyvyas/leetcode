@@ -3,7 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
-| 324 | [Wiggle Sort II][p324]                                              |               | Medium      |
+| 324 | [Wiggle Sort II][p324]                                              | [Ruby][s324]  | Medium      |
 | 323 | [Number of Connected Components in an Undirected Graph][p323]       |   :lock:      | Easy        |
 | 322 | [Coin Change][p322]                                                 | [Ruby][s322]  | Medium      |
 | 321 | [Create Maximum Number][p321]                                       | [Ruby][s321]  | Hard        |
@@ -622,6 +622,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s324]:./algorithms/wiggle_sort_ii.rb
 [s322]:./algorithms/coin_change.rb
 [s321]:./algorithms/create_maximum_number.rb
 [s319]:./algorithms/bulb_switcher.rb
