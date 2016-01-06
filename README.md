@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 325 | [Maximum Size Subarray Sum Equals k][p325]                          |   :lock:      | Easy        |
 | 324 | [Wiggle Sort II][p324]                                              | [Ruby][s324]  | Medium      |
 | 323 | [Number of Connected Components in an Undirected Graph][p323]       |   :lock:      | Easy        |
 | 322 | [Coin Change][p322]                                                 | [Ruby][s322]  | Medium      |
@@ -314,6 +315,7 @@
 
 
 
+[p325]:https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 [p324]:https://leetcode.com/problems/wiggle-sort-ii/
 [p323]:https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 [p322]:https://leetcode.com/problems/coin-change/
