@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 326 | [Power of Three][p326]                                              | [Ruby][s326]  | Easy        |
 | 325 | [Maximum Size Subarray Sum Equals k][p325]                          |   :lock:      | Easy        |
 | 324 | [Wiggle Sort II][p324]                                              | [Ruby][s324]  | Medium      |
 | 323 | [Number of Connected Components in an Undirected Graph][p323]       |   :lock:      | Easy        |
@@ -315,6 +316,7 @@
 
 
 
+[p326]:https://leetcode.com/problems/power-of-three/
 [p325]:https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 [p324]:https://leetcode.com/problems/wiggle-sort-ii/
 [p323]:https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
@@ -624,6 +626,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s326]:./algorithms/power_of_three.rb
 [s324]:./algorithms/wiggle_sort_ii.rb
 [s322]:./algorithms/coin_change.rb
 [s321]:./algorithms/create_maximum_number.rb
