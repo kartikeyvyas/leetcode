@@ -3,6 +3,8 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 328 | [Odd Even Linked List][p328]                                        | [Ruby][s328]  | Easy        |
+| 327 | [Count of Range Sum][p327]                                          |               | Hard        |
 | 326 | [Power of Three][p326]                                              | [Ruby][s326]  | Easy        |
 | 325 | [Maximum Size Subarray Sum Equals k][p325]                          |   :lock:      | Easy        |
 | 324 | [Wiggle Sort II][p324]                                              | [Ruby][s324]  | Medium      |
@@ -316,6 +318,8 @@
 
 
 
+[p328]:https://leetcode.com/problems/odd-even-linked-list/
+[p327]:https://leetcode.com/problems/count-of-range-sum/
 [p326]:https://leetcode.com/problems/power-of-three/
 [p325]:https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
 [p324]:https://leetcode.com/problems/wiggle-sort-ii/
@@ -626,6 +630,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s328]:./algorithms/odd_even_linked_list.rb
 [s326]:./algorithms/power_of_three.rb
 [s324]:./algorithms/wiggle_sort_ii.rb
 [s322]:./algorithms/coin_change.rb
