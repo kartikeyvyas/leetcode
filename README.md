@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 329 | [Longest Increasing Path in a Matrix][p329]                         | [Ruby][s329]  | Medium      |
 | 328 | [Odd Even Linked List][p328]                                        | [Ruby][s328]  | Easy        |
 | 327 | [Count of Range Sum][p327]                                          |               | Hard        |
 | 326 | [Power of Three][p326]                                              | [Ruby][s326]  | Easy        |
@@ -318,6 +319,7 @@
 
 
 
+[p329]:https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 [p328]:https://leetcode.com/problems/odd-even-linked-list/
 [p327]:https://leetcode.com/problems/count-of-range-sum/
 [p326]:https://leetcode.com/problems/power-of-three/
@@ -630,6 +632,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s329]:./algorithms/longest_increasing_path_in_a_matrix.rb
 [s328]:./algorithms/odd_even_linked_list.rb
 [s326]:./algorithms/power_of_three.rb
 [s324]:./algorithms/wiggle_sort_ii.rb
