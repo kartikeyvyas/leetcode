@@ -136,6 +136,7 @@
 | 198 | [House Robber][p198]                                                | [Ruby][s198]  | Easy        |
 | 195 | [Tenth Line][p195]                                                  | [Bash][s195]  | Easy        |
 | 194 | [Transpose File][p194]                                              | [Bash][s194]  | Medium      |
+| 193 | [Valid Phone Numbers][p193]                                         | [Bash][s193]  | Easy        |
 | 191 | [Number of 1 Bits][p191]                                            | [Ruby][s191]  | Easy        |
 | 190 | [Reverse Bits][p190]                                                | [Ruby][s190]  | Easy        |
 | 189 | [Rotate Array][p189]                                                | [Ruby][s189]  | Easy        |
@@ -454,6 +455,7 @@
 [p198]:https://leetcode.com/problems/house-robber/
 [p195]:https://leetcode.com/problems/tenth-line/
 [p194]:https://leetcode.com/problems/transpose-file/
+[p193]:https://leetcode.com/problems/valid-phone-numbers/
 [p191]:https://leetcode.com/problems/number-of-1-bits/
 [p190]:https://leetcode.com/problems/reverse-bits/
 [p189]:https://leetcode.com/problems/rotate-array/
@@ -723,6 +725,7 @@
 [s198]:./algorithms/house_robber.rb
 [s195]:./shell/tenth_line.sh
 [s194]:./shell/transpose_file.sh
+[s193]:./shell/valid_phone_numbers.sh
 [s191]:./algorithms/number_of_1_bits.rb
 [s190]:./algorithms/reverse_bits.rb
 [s189]:./algorithms/rotate_array.rb
