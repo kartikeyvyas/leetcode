@@ -134,6 +134,7 @@
 | 200 | [Number of Islands][p200]                                           | [Ruby][s200]  | Medium      |
 | 199 | [Binary Tree Right Side View][p199]                                 | [Ruby][s199]  | Medium      |
 | 198 | [House Robber][p198]                                                | [Ruby][s198]  | Easy        |
+| 195 | [Tenth Line][p195]                                                  | [Bash][s195]  | Easy        |
 | 191 | [Number of 1 Bits][p191]                                            | [Ruby][s191]  | Easy        |
 | 190 | [Reverse Bits][p190]                                                | [Ruby][s190]  | Easy        |
 | 189 | [Rotate Array][p189]                                                | [Ruby][s189]  | Easy        |
@@ -450,6 +451,7 @@
 [p200]:https://leetcode.com/problems/number-of-islands/
 [p199]:https://leetcode.com/problems/binary-tree-right-side-view/
 [p198]:https://leetcode.com/problems/house-robber/
+[p195]:https://leetcode.com/problems/tenth-line/
 [p191]:https://leetcode.com/problems/number-of-1-bits/
 [p190]:https://leetcode.com/problems/reverse-bits/
 [p189]:https://leetcode.com/problems/rotate-array/
@@ -717,6 +719,7 @@
 [s200]:./algorithms/number_of_islands.rb
 [s199]:./algorithms/binary_tree_right_side_view.rb
 [s198]:./algorithms/house_robber.rb
+[s195]:./shell/tenth_line.sh
 [s191]:./algorithms/number_of_1_bits.rb
 [s190]:./algorithms/reverse_bits.rb
 [s189]:./algorithms/rotate_array.rb
