@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 330 | [Patching Array][p330]                                              |               | Medium      |
 | 329 | [Longest Increasing Path in a Matrix][p329]                         | [Ruby][s329]  | Medium      |
 | 328 | [Odd Even Linked List][p328]                                        | [Ruby][s328]  | Easy        |
 | 327 | [Count of Range Sum][p327]                                          |               | Hard        |
@@ -323,6 +324,7 @@
 
 
 
+[p330]:https://leetcode.com/problems/patching-array/
 [p329]:https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 [p328]:https://leetcode.com/problems/odd-even-linked-list/
 [p327]:https://leetcode.com/problems/count-of-range-sum/
