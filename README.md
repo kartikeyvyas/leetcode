@@ -7,7 +7,7 @@
 | 330 | [Patching Array][p330]                                              | [Ruby][s330]  | Medium      |
 | 329 | [Longest Increasing Path in a Matrix][p329]                         | [Ruby][s329]  | Medium      |
 | 328 | [Odd Even Linked List][p328]                                        | [Ruby][s328]  | Easy        |
-| 327 | [Count of Range Sum][p327]                                          |               | Hard        |
+| 327 | [Count of Range Sum][p327]                                          | [Ruby][s327]  | Hard        |
 | 326 | [Power of Three][p326]                                              | [Ruby][s326]  | Easy        |
 | 325 | [Maximum Size Subarray Sum Equals k][p325]                          |   :lock:      | Easy        |
 | 324 | [Wiggle Sort II][p324]                                              | [Ruby][s324]  | Medium      |
@@ -648,6 +648,7 @@
 [s330]:./algorithms/patching_array.rb
 [s329]:./algorithms/longest_increasing_path_in_a_matrix.rb
 [s328]:./algorithms/odd_even_linked_list.rb
+[s327]:./algorithms/count_of_range_sum.rb
 [s326]:./algorithms/power_of_three.rb
 [s324]:./algorithms/wiggle_sort_ii.rb
 [s322]:./algorithms/coin_change.rb
