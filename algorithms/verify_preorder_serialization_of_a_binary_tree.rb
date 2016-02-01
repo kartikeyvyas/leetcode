@@ -47,16 +47,15 @@
 # @param {String} preorder
 # @return {Boolean}
 def is_valid_serialization(preorder)
-  return false if preorder.start_with?('#,')
-
   stack = []
+
   preorder.split(',').each do |token|
     if token == '#'
       while stack[-1] == '#'
+        return false if stack.size < 2
         stack.pop; stack.pop
       end
     end
-
     stack.push(token)
   end
 
