@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 332 | [Reconstruct Itinerary][p332]                                       |               | Medium      |
 | 331 | [Verify Preorder Serialization of a Binary Tree][p331]              | [Ruby][s331]  | Medium      |
 | 330 | [Patching Array][p330]                                              | [Ruby][s330]  | Medium      |
 | 329 | [Longest Increasing Path in a Matrix][p329]                         | [Ruby][s329]  | Medium      |
@@ -325,6 +326,7 @@
 
 
 
+[p332]:https://leetcode.com/problems/reconstruct-itinerary/
 [p331]:https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 [p330]:https://leetcode.com/problems/patching-array/
 [p329]:https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
