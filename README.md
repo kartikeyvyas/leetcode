@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 333 | [Largest BST Subtree][p333]                                         |   :lock:      | Medium      |
 | 332 | [Reconstruct Itinerary][p332]                                       |               | Medium      |
 | 331 | [Verify Preorder Serialization of a Binary Tree][p331]              | [Ruby][s331]  | Medium      |
 | 330 | [Patching Array][p330]                                              | [Ruby][s330]  | Medium      |
@@ -326,6 +327,7 @@
 
 
 
+[p333]:https://leetcode.com/problems/largest-bst-subtree/
 [p332]:https://leetcode.com/problems/reconstruct-itinerary/
 [p331]:https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 [p330]:https://leetcode.com/problems/patching-array/
