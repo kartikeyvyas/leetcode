@@ -42,7 +42,7 @@ private def _count_range_sum_(sums, lbound, ubound, lower, upper)
   j, k = middle, middle
   r, s = [], middle
   lbound.upto(middle - 1) do |i|
-    k += 1 while k < ubound && sums[k] - sums[i] < lower
+    k += 1 while k < ubound && sums[k] - sums[i] <  lower
     j += 1 while j < ubound && sums[j] - sums[i] <= upper
     count += j - k
 
