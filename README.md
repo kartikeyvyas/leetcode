@@ -4,7 +4,7 @@
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
 | 333 | [Largest BST Subtree][p333]                                         |   :lock:      | Medium      |
-| 332 | [Reconstruct Itinerary][p332]                                       |               | Medium      |
+| 332 | [Reconstruct Itinerary][p332]                                       | [Ruby][s332]  | Medium      |
 | 331 | [Verify Preorder Serialization of a Binary Tree][p331]              | [Ruby][s331]  | Medium      |
 | 330 | [Patching Array][p330]                                              | [Ruby][s330]  | Medium      |
 | 329 | [Longest Increasing Path in a Matrix][p329]                         | [Ruby][s329]  | Medium      |
@@ -648,6 +648,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s332]:./algorithms/reconstruct_itinerary.rb
 [s331]:./algorithms/verify_preorder_serialization_of_a_binary_tree.rb
 [s330]:./algorithms/patching_array.rb
 [s329]:./algorithms/longest_increasing_path_in_a_matrix.rb
