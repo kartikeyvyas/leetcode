@@ -148,6 +148,7 @@
 | 188 | [Best Time to Buy and Sell Stock IV][p188]                          | [Ruby][s188]  | Hard        |
 | 187 | [Repeated DNA Sequences][p187]                                      | [Ruby][s187]  | Medium      |
 | 186 | [Reverse Words in a String II][p186]                                |    :lock:     | Medium      |
+| 182 | [Duplicate Emails][p182]                                            |[MySQL][s182]  | Easy        |
 | 181 | [Employees Earning More Than Their Managers][p181]                  |[MySQL][s181]  | Easy        |
 | 179 | [Largest Number][p179]                                              | [Ruby][s179]  | Medium      |
 | 177 | [Nth Highest Salary][p177]                                          |[MySQL][s177]  | Medium      |
@@ -750,6 +751,7 @@
 [s189]:./algorithms/rotate_array.rb
 [s188]:./algorithms/best_time_to_buy_and_sell_stock_iv.rb
 [s187]:./algorithms/repeated_dna_sequences.rb
+[s182]:./database/duplicate_emails.sql
 [s181]:./database/employees_earning_more_than_their_managers.sql
 [s179]:./algorithms/largest_number.rb
 [s177]:./database/nth_highest_salary.sql
