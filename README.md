@@ -139,6 +139,7 @@
 | 199 | [Binary Tree Right Side View][p199]                                 | [Ruby][s199]  | Medium      |
 | 198 | [House Robber][p198]                                                | [Ruby][s198]  | Easy        |
 | 197 | [Rising Temperature][p197]                                          |[MySQL][s197]  | Easy        |
+| 196 | [Delete Duplicate Emails][p196]                                     |[MySQL][s196]  | Easy        |
 | 195 | [Tenth Line][p195]                                                  | [Bash][s195]  | Easy        |
 | 194 | [Transpose File][p194]                                              | [Bash][s194]  | Medium      |
 | 193 | [Valid Phone Numbers][p193]                                         | [Bash][s193]  | Easy        |
@@ -469,6 +470,8 @@
 [p200]:https://leetcode.com/problems/number-of-islands/
 [p199]:https://leetcode.com/problems/binary-tree-right-side-view/
 [p198]:https://leetcode.com/problems/house-robber/
+[p197]:https://leetcode.com/problems/rising-temperature/
+[p196]:https://leetcode.com/problems/delete-duplicate-emails/
 [p195]:https://leetcode.com/problems/tenth-line/
 [p194]:https://leetcode.com/problems/transpose-file/
 [p193]:https://leetcode.com/problems/valid-phone-numbers/
@@ -479,7 +482,13 @@
 [p188]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 [p187]:https://leetcode.com/problems/repeated-dna-sequences/
 [p186]:https://leetcode.com/problems/reverse-words-in-a-string-ii/
+[p183]:https://leetcode.com/problems/customers-who-never-order/
+[p182]:https://leetcode.com/problems/duplicate-emails/
+[p181]:https://leetcode.com/problems/employees-earning-more-than-their-managers/
 [p179]:https://leetcode.com/problems/largest-number/
+[p177]:https://leetcode.com/problems/nth-highest-salary/
+[p176]:https://leetcode.com/problems/second-highest-salary/
+[p175]:https://leetcode.com/problems/combine-two-tables/
 [p174]:https://leetcode.com/problems/dungeon-game/
 [p173]:https://leetcode.com/problems/binary-search-tree-iterator/
 [p172]:https://leetcode.com/problems/factorial-trailing-zeroes/
@@ -745,6 +754,7 @@
 [s199]:./algorithms/binary_tree_right_side_view.rb
 [s198]:./algorithms/house_robber.rb
 [s197]:./database/rising_temperature.sql
+[s196]:./database/delete_duplicate_emails.sql
 [s195]:./shell/tenth_line.sh
 [s194]:./shell/transpose_file.sh
 [s193]:./shell/valid_phone_numbers.sh
