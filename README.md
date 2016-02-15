@@ -149,6 +149,7 @@
 | 187 | [Repeated DNA Sequences][p187]                                      | [Ruby][s187]  | Medium      |
 | 186 | [Reverse Words in a String II][p186]                                |    :lock:     | Medium      |
 | 179 | [Largest Number][p179]                                              | [Ruby][s179]  | Medium      |
+| 176 | [Second Highest Salary][p176]                                       |[MySQL][s176]  | Easy        |
 | 175 | [Combine Two Tables][p175]                                          |[MySQL][s175]  | Easy        |
 | 174 | [Dungeon Game][p174]                                                | [Ruby][s174]  | Hard        |
 | 173 | [Binary Search Tree Iterator][p173]                                 | [Ruby][s173]  | Medium      |
@@ -748,6 +749,7 @@
 [s188]:./algorithms/best_time_to_buy_and_sell_stock_iv.rb
 [s187]:./algorithms/repeated_dna_sequences.rb
 [s179]:./algorithms/largest_number.rb
+[s176]:./database/second_highest_salary.sql
 [s175]:./database/combine_two_tables.sql
 [s174]:./algorithms/dungeon_game.rb
 [s173]:./algorithms/binary_search_tree_iterator.rb
