@@ -74,6 +74,7 @@
 | 265 | [Paint House II][p265]                                              |    :lock:     | Hard        |
 | 264 | [Ugly Number II][p264]                                              | [Ruby][s264]  | Medium      |
 | 263 | [Ugly Number][p263]                                                 | [Ruby][s263]  | Easy        |
+| 262 | [Trips and Users][p262]                                             |[MySQL][s262]  | Hard        |
 | 261 | [Graph Valid Tree][p261]                                            |    :lock:     | Medium      |
 | 260 | [Single Number III][p260]                                           | [Ruby][s260]  | Medium      |
 | 259 | [3Sum Smaller][p259]                                                |    :lock:     | Medium      |
@@ -410,6 +411,7 @@
 [p265]:https://leetcode.com/problems/paint-house-ii/
 [p264]:https://leetcode.com/problems/ugly-number-ii/
 [p263]:https://leetcode.com/problems/ugly-number/
+[p262]:https://leetcode.com/problems/trips-and-users/
 [p261]:https://leetcode.com/problems/graph-valid-tree/
 [p260]:https://leetcode.com/problems/single-number-iii/
 [p259]:https://leetcode.com/problems/3sum-smaller/
@@ -712,6 +714,7 @@
 [s268]:./algorithms/missing_number.rb
 [s264]:./algorithms/ugly_number_ii.rb
 [s263]:./algorithms/ugly_number.rb
+[s262]:./database/trips_and_users.sql
 [s260]:./algorithms/single_number_iii.rb
 [s258]:./algorithms/add_digits.rb
 [s257]:./algorithms/binary_tree_paths.rb
