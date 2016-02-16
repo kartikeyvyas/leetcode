@@ -153,6 +153,7 @@
 | 183 | [Customers Who Never Order][p183]                                   |[MySQL][s183]  | Easy        |
 | 182 | [Duplicate Emails][p182]                                            |[MySQL][s182]  | Easy        |
 | 181 | [Employees Earning More Than Their Managers][p181]                  |[MySQL][s181]  | Easy        |
+| 180 | [Consecutive Numbers][p180]                                         |[MySQL][s180]  | Medium      |
 | 179 | [Largest Number][p179]                                              | [Ruby][s179]  | Medium      |
 | 177 | [Nth Highest Salary][p177]                                          |[MySQL][s177]  | Medium      |
 | 176 | [Second Highest Salary][p176]                                       |[MySQL][s176]  | Easy        |
@@ -767,6 +768,7 @@
 [s183]:./database/customers_who_never_order.sql
 [s182]:./database/duplicate_emails.sql
 [s181]:./database/employees_earning_more_than_their_managers.sql
+[s180]:./database/consecutive_numbers.sql
 [s179]:./algorithms/largest_number.rb
 [s177]:./database/nth_highest_salary.sql
 [s176]:./database/second_highest_salary.sql
