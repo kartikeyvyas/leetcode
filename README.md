@@ -155,6 +155,7 @@
 | 181 | [Employees Earning More Than Their Managers][p181]                  |[MySQL][s181]  | Easy        |
 | 180 | [Consecutive Numbers][p180]                                         |[MySQL][s180]  | Medium      |
 | 179 | [Largest Number][p179]                                              | [Ruby][s179]  | Medium      |
+| 178 | [Rank Scores][p178]                                                 |[MySQL][s178]  | Medium      |
 | 177 | [Nth Highest Salary][p177]                                          |[MySQL][s177]  | Medium      |
 | 176 | [Second Highest Salary][p176]                                       |[MySQL][s176]  | Easy        |
 | 175 | [Combine Two Tables][p175]                                          |[MySQL][s175]  | Easy        |
@@ -770,6 +771,7 @@
 [s181]:./database/employees_earning_more_than_their_managers.sql
 [s180]:./database/consecutive_numbers.sql
 [s179]:./algorithms/largest_number.rb
+[s178]:./database/rank_scores.sql
 [s177]:./database/nth_highest_salary.sql
 [s176]:./database/second_highest_salary.sql
 [s175]:./database/combine_two_tables.sql
