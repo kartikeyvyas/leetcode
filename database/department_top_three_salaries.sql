@@ -41,4 +41,4 @@
     SELECT d.Name, e.Name, e.Salary
       FROM Employee AS e
 INNER JOIN Department AS d ON e.DepartmentId = d.Id
-     WHERE 3 > (SELECT COUNT(DISTINCT Salary) FROM Employee WHERE DepartmentId = e.DepartmentId AND Salary > e.Salary)
+     WHERE 3 > (SELECT COUNT(DISTINCT Salary) FROM Employee WHERE DepartmentId = e.DepartmentId AND Salary > e.Salary);

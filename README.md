@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 334 | [Increasing Triplet Subsequence][p334]                              |               | Medium      |
 | 333 | [Largest BST Subtree][p333]                                         |   :lock:      | Medium      |
 | 332 | [Reconstruct Itinerary][p332]                                       | [Ruby][s332]  | Medium      |
 | 331 | [Verify Preorder Serialization of a Binary Tree][p331]              | [Ruby][s331]  | Medium      |
@@ -340,6 +341,7 @@
 
 
 
+[p334]:https://leetcode.com/problems/increasing-triplet-subsequence/
 [p333]:https://leetcode.com/problems/largest-bst-subtree/
 [p332]:https://leetcode.com/problems/reconstruct-itinerary/
 [p331]:https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/

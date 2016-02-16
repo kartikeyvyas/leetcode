@@ -60,4 +60,4 @@
             FROM Trips
       INNER JOIN Users ON Trips.Client_Id = Users.Users_Id
            WHERE (Trips.Request_at BETWEEN '2013-10-01' AND '2013-10-03') AND Users.Banned = 'No') AS s
-GROUP BY Request_at
+GROUP BY Request_at;

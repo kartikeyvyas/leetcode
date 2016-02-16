@@ -36,4 +36,4 @@
    SELECT Customers.Name
      FROM Customers
 LEFT JOIN Orders ON Customers.Id = Orders.CustomerId
-    WHERE Orders.Id IS NULL
+    WHERE Orders.Id IS NULL;
