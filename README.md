@@ -3,7 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
-| 334 | [Increasing Triplet Subsequence][p334]                              |               | Medium      |
+| 334 | [Increasing Triplet Subsequence][p334]                              | [Ruby][s334]  | Medium      |
 | 333 | [Largest BST Subtree][p333]                                         |   :lock:      | Medium      |
 | 332 | [Reconstruct Itinerary][p332]                                       | [Ruby][s332]  | Medium      |
 | 331 | [Verify Preorder Serialization of a Binary Tree][p331]              | [Ruby][s331]  | Medium      |
@@ -676,6 +676,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s334]:./algorithms/increasing_triplet_subsequence.rb
 [s332]:./algorithms/reconstruct_itinerary.rb
 [s331]:./algorithms/verify_preorder_serialization_of_a_binary_tree.rb
 [s330]:./algorithms/patching_array.rb
