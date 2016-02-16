@@ -493,6 +493,7 @@
 [p183]:https://leetcode.com/problems/customers-who-never-order/
 [p182]:https://leetcode.com/problems/duplicate-emails/
 [p181]:https://leetcode.com/problems/employees-earning-more-than-their-managers/
+[p180]:https://leetcode.com/problems/consecutive-numbers/
 [p179]:https://leetcode.com/problems/largest-number/
 [p178]:https://leetcode.com/problems/rank-scores/
 [p177]:https://leetcode.com/problems/nth-highest-salary/
