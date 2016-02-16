@@ -150,6 +150,7 @@
 | 188 | [Best Time to Buy and Sell Stock IV][p188]                          | [Ruby][s188]  | Hard        |
 | 187 | [Repeated DNA Sequences][p187]                                      | [Ruby][s187]  | Medium      |
 | 186 | [Reverse Words in a String II][p186]                                |    :lock:     | Medium      |
+| 185 | [Department Top Three Salaries][p185]                               |[MySQL][s185]  | Hard        |
 | 184 | [Department Highest Salary][p184]                                   |[MySQL][s184]  | Medium      |
 | 183 | [Customers Who Never Order][p183]                                   |[MySQL][s183]  | Easy        |
 | 182 | [Duplicate Emails][p182]                                            |[MySQL][s182]  | Easy        |
@@ -485,7 +486,8 @@
 [p188]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 [p187]:https://leetcode.com/problems/repeated-dna-sequences/
 [p186]:https://leetcode.com/problems/reverse-words-in-a-string-ii/
-[p184]:[p183]:https://leetcode.com/problems/customers-who-never-order/
+[p185]:https://leetcode.com/problems/department-top-three-salaries/
+[p184]:https://leetcode.com/problems/customers-who-never-order/
 [p183]:https://leetcode.com/problems/customers-who-never-order/
 [p182]:https://leetcode.com/problems/duplicate-emails/
 [p181]:https://leetcode.com/problems/employees-earning-more-than-their-managers/
@@ -770,6 +772,7 @@
 [s188]:./algorithms/best_time_to_buy_and_sell_stock_iv.rb
 [s187]:./algorithms/repeated_dna_sequences.rb
 [s184]:./database/department_highest_salary.sql
+[s185]:./database/department_top_three_salaries.sql
 [s183]:./database/customers_who_never_order.sql
 [s182]:./database/duplicate_emails.sql
 [s181]:./database/employees_earning_more_than_their_managers.sql
