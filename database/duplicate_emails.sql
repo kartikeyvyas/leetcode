@@ -21,4 +21,4 @@
 -- NOTE: All emails are in lowercase.
 
 
-SELECT Email FROM Person GROUP BY Email HAVING COUNT(Email) > 1;
+SELECT Email FROM Person GROUP BY Email HAVING COUNT(*) > 1;
