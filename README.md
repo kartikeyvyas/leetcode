@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 335 | [Self Crossing][p335]                                               | [Ruby][s335]  | Medium      |
 | 334 | [Increasing Triplet Subsequence][p334]                              | [Ruby][s334]  | Medium      |
 | 333 | [Largest BST Subtree][p333]                                         |   :lock:      | Medium      |
 | 332 | [Reconstruct Itinerary][p332]                                       | [Ruby][s332]  | Medium      |
@@ -341,6 +342,7 @@
 
 
 
+[p335]:https://leetcode.com/problems/self-crossing/
 [p334]:https://leetcode.com/problems/increasing-triplet-subsequence/
 [p333]:https://leetcode.com/problems/largest-bst-subtree/
 [p332]:https://leetcode.com/problems/reconstruct-itinerary/
@@ -676,6 +678,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s335]:./algorithms/self_crossing.rb
 [s334]:./algorithms/increasing_triplet_subsequence.rb
 [s332]:./algorithms/reconstruct_itinerary.rb
 [s331]:./algorithms/verify_preorder_serialization_of_a_binary_tree.rb
