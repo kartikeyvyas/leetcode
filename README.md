@@ -3,6 +3,8 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 337 | [House Robber III][p337]                                            |               | Medium      |
+| 336 | [Palindrome Pairs][p336]                                            |               | Hard        |
 | 335 | [Self Crossing][p335]                                               | [Ruby][s335]  | Medium      |
 | 334 | [Increasing Triplet Subsequence][p334]                              | [Ruby][s334]  | Medium      |
 | 333 | [Largest BST Subtree][p333]                                         |   :lock:      | Medium      |
@@ -342,6 +344,8 @@
 
 
 
+[p337]:https://leetcode.com/problems/house-robber-iii/
+[p336]:https://leetcode.com/problems/palindrome-pairs/
 [p335]:https://leetcode.com/problems/self-crossing/
 [p334]:https://leetcode.com/problems/increasing-triplet-subsequence/
 [p333]:https://leetcode.com/problems/largest-bst-subtree/
