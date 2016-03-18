@@ -4,7 +4,7 @@
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
 | 338 | [Counting Bits][p338]                                               |               | Medium      |
-| 337 | [House Robber III][p337]                                            |               | Medium      |
+| 337 | [House Robber III][p337]                                            | [Ruby][s337]  | Medium      |
 | 336 | [Palindrome Pairs][p336]                                            | [Ruby][s336]  | Hard        |
 | 335 | [Self Crossing][p335]                                               | [Ruby][s335]  | Medium      |
 | 334 | [Increasing Triplet Subsequence][p334]                              | [Ruby][s334]  | Medium      |
@@ -684,6 +684,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s337]:./algorithms/house_robber_iii.rb
 [s336]:./algorithms/palindrome_pairs.rb
 [s335]:./algorithms/self_crossing.rb
 [s334]:./algorithms/increasing_triplet_subsequence.rb
