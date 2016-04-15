@@ -3,7 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
-| 338 | [Counting Bits][p338]                                               |               | Medium      |
+| 338 | [Counting Bits][p338]                                               | [Ruby][s338]  | Medium      |
 | 337 | [House Robber III][p337]                                            | [Ruby][s337]  | Medium      |
 | 336 | [Palindrome Pairs][p336]                                            | [Ruby][s336]  | Hard        |
 | 335 | [Self Crossing][p335]                                               | [Ruby][s335]  | Medium      |
@@ -684,6 +684,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s338]:./algorithms/counting_bits.rb
 [s337]:./algorithms/house_robber_iii.rb
 [s336]:./algorithms/palindrome_pairs.rb
 [s335]:./algorithms/self_crossing.rb
