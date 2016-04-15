@@ -3,6 +3,9 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 341 | [Flatten Nested List Iterator][p341]                                |   :lock:      | Medium      |
+| 340 | [Longest Substring with At Most K Distinct Characters][p340]        |   :lock:      | Hard        |
+| 339 | [Nested List Weight Sum][p339]                                      |   :lock:      | Easy        |
 | 338 | [Counting Bits][p338]                                               | [Ruby][s338]  | Medium      |
 | 337 | [House Robber III][p337]                                            | [Ruby][s337]  | Medium      |
 | 336 | [Palindrome Pairs][p336]                                            | [Ruby][s336]  | Hard        |
@@ -345,6 +348,9 @@
 
 
 
+[p341]:https://leetcode.com/problems/flatten-nested-list-iterator/
+[p340]:https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+[p339]:https://leetcode.com/problems/nested-list-weight-sum/
 [p338]:https://leetcode.com/problems/counting-bits/
 [p337]:https://leetcode.com/problems/house-robber-iii/
 [p336]:https://leetcode.com/problems/palindrome-pairs/
