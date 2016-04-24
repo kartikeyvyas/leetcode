@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 345 | [Reverse Vowels of a String][p345]                                  | [Ruby][s345]  | Easy        |
 | 344 | [Reverse String][p344]                                              | [Ruby][s344]  | Easy        |
 | 343 | [Integer Break][p343]                                               | [Ruby][s343]  | Medium      |
 | 342 | [Power of Four][p342]                                               | [Ruby][s342]  | Easy        |
@@ -351,6 +352,7 @@
 
 
 
+[p345]:https://leetcode.com/problems/reverse-vowels-of-a-string/
 [p344]:https://leetcode.com/problems/reverse-string/
 [p343]:https://leetcode.com/problems/integer-break/
 [p342]:https://leetcode.com/problems/power-of-four/
@@ -696,6 +698,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s345]:./algorithms/reverse_vowels_of_a_string.rb
 [s344]:./algorithms/reverse_string.rb
 [s343]:./algorithms/integer_break.rb
 [s342]:./algorithms/power_of_four.rb
