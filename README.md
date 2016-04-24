@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 343 | [Integer Break][p343]                                               | [Ruby][s343]  | Medium      |
 | 342 | [Power of Four][p342]                                               | [Ruby][s342]  | Easy        |
 | 341 | [Flatten Nested List Iterator][p341]                                |   :lock:      | Medium      |
 | 340 | [Longest Substring with At Most K Distinct Characters][p340]        |   :lock:      | Hard        |
@@ -349,6 +350,7 @@
 
 
 
+[p343]:https://leetcode.com/problems/integer-break/
 [p342]:https://leetcode.com/problems/power-of-four/
 [p341]:https://leetcode.com/problems/flatten-nested-list-iterator/
 [p340]:https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
@@ -692,6 +694,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s343]:./algorithms/integer_break.rb
 [s342]:./algorithms/power_of_four.rb
 [s338]:./algorithms/counting_bits.rb
 [s337]:./algorithms/house_robber_iii.rb
