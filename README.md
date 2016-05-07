@@ -3,6 +3,9 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 348 | [Design Tic-Tac-Toe][p348]                                          |   :lock:      | Medium      |
+| 347 | [Top K Frequent Elements][p347]                                     |               | Medium      |
+| 346 | [Moving Average from Data Stream][p346]                             |   :lock:      | Easy        |
 | 345 | [Reverse Vowels of a String][p345]                                  | [Ruby][s345]  | Easy        |
 | 344 | [Reverse String][p344]                                              | [Ruby][s344]  | Easy        |
 | 343 | [Integer Break][p343]                                               | [Ruby][s343]  | Medium      |
@@ -352,6 +355,9 @@
 
 
 
+[p348]:https://leetcode.com/problems/design-tic-tac-toe/
+[p347]:https://leetcode.com/problems/top-k-frequent-elements/
+[p346]:https://leetcode.com/problems/moving-average-from-data-stream/
 [p345]:https://leetcode.com/problems/reverse-vowels-of-a-string/
 [p344]:https://leetcode.com/problems/reverse-string/
 [p343]:https://leetcode.com/problems/integer-break/
