@@ -4,7 +4,7 @@
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
 | 348 | [Design Tic-Tac-Toe][p348]                                          |   :lock:      | Medium      |
-| 347 | [Top K Frequent Elements][p347]                                     |               | Medium      |
+| 347 | [Top K Frequent Elements][p347]                                     | [Ruby][s347]  | Medium      |
 | 346 | [Moving Average from Data Stream][p346]                             |   :lock:      | Easy        |
 | 345 | [Reverse Vowels of a String][p345]                                  | [Ruby][s345]  | Easy        |
 | 344 | [Reverse String][p344]                                              | [Ruby][s344]  | Easy        |
@@ -704,6 +704,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s347]:./algorithms/top_k_frequent_elements.rb
 [s345]:./algorithms/reverse_vowels_of_a_string.rb
 [s344]:./algorithms/reverse_string.rb
 [s343]:./algorithms/integer_break.rb
